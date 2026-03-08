@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0075b6&background=00000000&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Ismail+Hossain+Naim;Backend+Engineer+(.NET+%2B+Node);Full+Stack+Enthusiast;Database+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0075b6&background=00000000&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Dipto+Kumar+Saha;Backend+Engineer+(.NET+%2B+Node);Full+Stack+Enthusiast;Database+Architect" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -9,16 +9,16 @@
 </div>
 
 <div align="center">
-  <a href="https://facebook.com/ihnaimbd/" target="_blank">
+  <a href="https://www.facebook.com/dipto.cse.1654/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://linkedin.com/in/devihnaim/" target="_blank">
+  <a href="https://www.linkedin.com/in/dipto-saha-6412561ba/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:ihnaimofficial@gmail.com">
+  <a href="mailto:diptosaha.cse216@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.ihnoffical.com/" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
