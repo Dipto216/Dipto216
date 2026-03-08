@@ -86,20 +86,6 @@
 
 <br/>
 
-<div align="center">
-  <h2>📊 GitHub Analytics</h2>
-</div>
-
-<div align="center">
-  <!-- Stats Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ihnofficial&theme=dracula" alt="Stats" />
-  
-  <br />
-  
-  <!-- Languages & Commits -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ihnofficial&theme=dracula&utcOffset=6" alt="Productive Time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ihnofficial&theme=dracula" alt="Languages" />
-</div>
 
 <br/>
 
