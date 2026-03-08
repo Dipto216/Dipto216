@@ -1,16 +1,73 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dipto Kumar Saha</h1>
+<h3 align="center">Dedicated Backend Developer | Database Specialist</h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ihnofficial&label=Profile%20views&color=0e75b6&style=flat" alt="ihnofficial" /> </p>
+<h3>
+    <span style='padding-right:10px; padding-top:5px '>
+        <img width="25px" height="25px" src="https://img.icons8.com/bubbles/50/000000/about.png"/>
+    </span>
+    <b>About Me</b>
+</h3>
+- 👋 I’m Dipto Kumar Saha an Enthusiastic Programmer.<br>
+- 👀 I’m interested in exploring new technology in the programming ocean.<br>
+- 💻 I’m currently working on **ASP.NET, ASP.NET CORE, Blazor, SQL Server**<br>
+- 💞️ I’m looking to collaborate on OpenSource Projects<br>
+- 🔭 I’m currently working on **Bepza Enterprise License System**  <br />
+- 🌱 I’m currently learning **Angular JS & Advance SQL**  <br />
+- 📫 How to reach me **diptosaha.cse216@gmail.com**<br>
+- 🔍 Search me on Google by **dipto-saha**<br>
+<br>
+<div>
+  <h2 style='margin-top:30px'>
+    <span>
+        <img width="30px" height="30px" src="https://img.icons8.com/clouds/100/000000/contact-card.png"/>
+    </span>
+    <b>Connect with me :</b>
+</h2></div>
+<div align="left" style="padding: 10px; border:1px solid #6600cc">
 
-<!--
-**Dipto216/Dipto216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+<a href="https://github.com/Dipto216" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/dipto-saha-6412561ba/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/dipto.cse.1654/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:diptosaha.cse216@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
+</a>
 
-Here are some ideas to get you started:
+<h3 align="left">Languages and Tools:</h3> 
+<p align="left"> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a> 
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /> </a> 
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" /> 
+</a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a> 
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40"height="40" /> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>  
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> </a> 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>   
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+ </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
