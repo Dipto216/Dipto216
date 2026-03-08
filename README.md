@@ -12,7 +12,7 @@
   <a href="https://www.facebook.com/dipto.cse.1654/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="www.linkedin.com/in/dipto-kumar-saha-6412561ba" target="_blank">
+  <a href="https://www.linkedin.com/in/dipto-kumar-saha-6412561ba/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:diptosaha.cse216@gmail.com">
