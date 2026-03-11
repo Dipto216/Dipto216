@@ -18,7 +18,7 @@
   <a href="mailto:diptosaha.cse216@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="" target="_blank">
+  <a href="https://dipto-saha.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
